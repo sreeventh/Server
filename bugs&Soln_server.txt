@@ -1,0 +1,19 @@
+steps:
+
+
+login/sign-up module:
+
+gql server set-up
+sql db setup (admin access)
+gql+sql integrate
+react frontend
+
+
+zpod modue:
+
+comments module:
+
+profile module:
+
+logout and about page module:
+
